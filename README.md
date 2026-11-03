@@ -3,7 +3,7 @@
 Playable static build hosted for DirectiveDemos.
 
 - Source repository: DranakCorps-bot/Pinball
-- Source commit: 70ae1c21c6b94bc45424cbbb242e38954e351802
+- Source commit: 7991323121ecbe2c48539be2d855207effd6af73
 - Build: `npm ci` then `npm run build` at that commit (Vite, then `scripts/inline-dist.mjs`)
 - Pages delta from that build: one local favicon link (`assets/icon-key-YfThh_Bm.png`) so the browser does not request the organization icon.
 - Evidence: [evidence/](evidence/)
