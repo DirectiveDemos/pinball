@@ -579,7 +579,7 @@
   },
   "integrity": {
     "manifestVersion": 1,
-    "manifestSha256": "4aad683aabe1951bb77538accb52ab3d8ddbf90924ae624585d925c25bbbfcac",
+    "manifestSha256": "1effb705bf069f2655d6bbf81ae928b0ddb41a93f0225f9bcfc7ea5c34dc15f6",
     "artifacts": [
       {
         "name": "review-digest",
