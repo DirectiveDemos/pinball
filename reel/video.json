@@ -19,8 +19,8 @@
   ],
   "durationSeconds": 414.67,
   "disclosure": "The narrator's voice is synthetic. Every frame of gameplay is the real game.",
-  "embedId": null,
-  "embedIdNote": "Placeholder. Filled at publish with the hosted video id; until then the slot page shows no player.",
+  "embedId": "vGhunYWTYmI",
+  "embedIdNote": "YouTube id from Reel's upload (Private, per David 2026-11-03 11:53 AM CT via Helm on DRA-3894). Set locally only; not pushed until David says go Public.",
   "captions": {
     "srt": "captions.srt",
     "vtt": "captions.vtt"
