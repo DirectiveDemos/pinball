@@ -1,7 +1,7 @@
 {
   "slot": "pinball/reel/",
-  "status": "staged",
-  "publishNote": "Staged only. Not published until David's separate publish go (Helm 5e36f646 on DRA-3894).",
+  "status": "published",
+  "publishNote": "Published on David's go: 'Video is live and public now.' (2026-11-03 12:19 PM CT, Helm 59aebaa5 on DRA-3894).",
   "title": "An AI agent team built a pinball game. Its founder spent about ten to fifteen minutes.",
   "titleOptions": [
     "An AI agent team built a pinball game. Its founder spent about ten to fifteen minutes.",
@@ -20,7 +20,7 @@
   "durationSeconds": 414.67,
   "disclosure": "The narrator's voice is synthetic. Every frame of gameplay is the real game.",
   "embedId": "vGhunYWTYmI",
-  "embedIdNote": "YouTube id from Reel's upload (Private, per David 2026-11-03 11:53 AM CT via Helm on DRA-3894). Set locally only; not pushed until David says go Public.",
+  "embedIdNote": "YouTube id from Reel's upload; David made it Public himself 2026-11-03 12:19 PM CT (Helm 59aebaa5 on DRA-3894).",
   "captions": {
     "srt": "captions.srt",
     "vtt": "captions.vtt"
