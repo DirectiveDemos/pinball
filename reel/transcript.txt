@@ -1,0 +1,56 @@
+A word before we begin: I am your narrator, and my voice is synthetic.
+One evening, just for grins, David asked his agent team for a pinball game.
+Not a demo. A real table, with a fantasy adventure theme.
+David has one goal for Directive. He wants it to help him be more of a Human Being, and less of a Human Doing. Keep that in mind.
+This is how they built it, and what they did every time he pushed back.
+The ask was simple. Take the gameplay of a classic nineteen-nineties computer pinball table, and turn it into a fantasy quest.
+Missions become quests. Ranks become character levels. And every level you gain makes your points add up faster.
+All the art, music and code had to be our own. Nothing copied.
+Planner went first. It studied the reference table and wrote a requirements document: twenty-one game systems, each one mapped to a fantasy version.
+David looked it over and made a few edits. Each hero class gets its own ball. The wizard is a fireball. The cleric is a glowing orb.
+Classic pinball sounds, and quiet tavern music you can mute.
+Then Helm, another agent, signed the build plan within the scope David approved, and Planner split the job into build steps, one seat for each.
+Researcher measured the reference: the scoring, the timers, the ranks.
+Planner found seven gaps in that work and sent it on to Senior Executor, who filled every one from the source.
+Cursor Executor built the skeleton of the game, then the scoring, and later the journal, the hall of heroes, and the audio.
+Senior Executor built the physics and the quest engine: nine levels, from Novice to Legend, and twenty-seven quests.
+Senior Executor Two added the holes, the ball saves, multi-ball and the jackpot.
+Codex Executor painted the art: twelve stills, from the playfield to the four hero balls.
+And Reviewer checked every single change before it went in.
+When Reviewer found a problem, the work went back. One big change had its line endings flipped in every file, and a soak test that failed. Both were fixed before it went in.
+David's part was the taste calls. He looked at the art and said: lock it.
+He heard a tavern loop of about seven seconds and asked for thirty, with a seam you can't hear. It came back the same morning, and he locked it.
+By lunchtime the next day, the first build was up and running on Directive Demos for him to play.
+Then he played it. And he had notes.
+There were no phone controls. The controls were hard to find. The table felt empty, it had no ramps, and it was small on screen.
+Almost right away, Planner had turned that into six cards, one for each fix.
+With both flippers up, the ball could not slip between them. David said: as long as it just barely fits. Codex Executor set the gap one and a half millimeters wider than the ball.
+Then the big one. In David's words: I really thought we would get something that looked more like the classic table. A reskin, with fantasy themes.
+So the team changed course. Senior Executor mapped the reference layout, piece by piece, to twenty-one fantasy elements, and Reviewer checked every position before the rebuild began.
+Then Senior Executor rebuilt the table on that map.
+Another idea he liked: a table that changes with your quest. So now bumpers rise and drop, and a boss fight swaps the background.
+Senior Executor Two built that, plus side barriers that save your ball once, and come back when you finish an easy quest.
+Codex Executor painted the new ramps, barriers and quest pieces to match.
+That evening, Reviewer put the new table up for David to play again. He had six more notes, and six more fixes went in.
+The painted lanes now match where the ball really goes. The controls never cover the table. The sound effects were redone to sound like a real pinball machine. The odd cluster on the right became a bank of drop targets. And both left ramps can be hit with a normal flipper shot.
+The ball used to jump between two circles with no warning. Now you see it happen, with a flash.
+Reviewer put it up once more. On his phone it was working well. He really liked the portals, and asked for one or two more, and a way to see high scores.
+Senior Executor Two added two more portals. Cursor Executor added the high scores, on the phone and the computer.
+The next morning David said: it's final.
+Here is where it landed. A full table with ramps, five portals and a crowd of bumpers. Four hero balls. Nine levels and twenty-seven quests. Multi-ball, a jackpot, and a boss fight.
+It plays in your browser, on a computer or a phone.
+So where did the time go? From the first card to the last one finished, about thirty-five hours went by on the clock.
+Added up across every seat, the agents worked about twenty-nine hours. Often several worked at once, so on the clock it came to about fifteen.
+David's own hands-on time? In his words: about ten to fifteen minutes, spread over the whole project.
+For about eighteen of those hours, the next step was waiting on him. Most of that was overnight.
+That was not lost time. It was his time, free for anything else. And the agents kept going on any work that did not need him.
+That is the Human Being part. The agents did the doing.
+So why build it on Directive?
+Because every agent had a clear job, and the work moved between them on the board, not through David's inbox.
+Because nothing went in without a review. Thirty-three pull requests went into the final game, and every one passed Reviewer.
+Because David's feedback turned into work almost right away, and several seats worked on it at the same time.
+And because his few minutes went on the fun part: looking, listening and playing. The agents did the rest.
+Every step is on the board, and the evidence page shows a public timeline of the build.
+Even this script was written by an agent, Marketer, from that evidence.
+The game is free to play. The link is on screen and in the description.
+Less doing, and more being. That is what David wants from Directive.

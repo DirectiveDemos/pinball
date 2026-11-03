@@ -1,0 +1,773 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.700
+A word before we begin:
+
+2
+00:00:01.700 --> 00:00:03.220
+I am your narrator,
+
+3
+00:00:03.220 --> 00:00:05.520
+and my voice is synthetic.
+
+4
+00:00:05.520 --> 00:00:07.520
+One evening, just for grins,
+
+5
+00:00:07.520 --> 00:00:09.320
+David asked his agent team
+
+6
+00:00:09.320 --> 00:00:10.880
+for a pinball game.
+
+7
+00:00:10.880 --> 00:00:12.000
+Not a demo.
+
+8
+00:00:12.000 --> 00:00:15.800
+A real table, with a fantasy adventure theme.
+
+9
+00:00:15.800 --> 00:00:18.220
+David has one goal for Directive.
+
+10
+00:00:18.220 --> 00:00:19.800
+He wants it to help him be
+
+11
+00:00:19.800 --> 00:00:21.160
+more of a Human Being,
+
+12
+00:00:21.160 --> 00:00:23.040
+and less of a Human Doing.
+
+13
+00:00:23.040 --> 00:00:24.860
+Keep that in mind.
+
+14
+00:00:24.860 --> 00:00:26.320
+This is how they built it,
+
+15
+00:00:26.320 --> 00:00:27.260
+and what they did every
+
+16
+00:00:27.260 --> 00:00:29.207
+time he pushed back.
+
+17
+00:00:29.207 --> 00:00:30.720
+The ask was simple.
+
+18
+00:00:30.720 --> 00:00:33.340
+Take the gameplay of a classic nineteen-nineties
+
+19
+00:00:33.340 --> 00:00:34.520
+computer pinball table,
+
+20
+00:00:34.520 --> 00:00:37.200
+and turn it into a fantasy quest.
+
+21
+00:00:37.200 --> 00:00:38.920
+Missions become quests.
+
+22
+00:00:38.920 --> 00:00:40.780
+Ranks become character levels.
+
+23
+00:00:40.780 --> 00:00:42.660
+And every level you gain makes
+
+24
+00:00:42.660 --> 00:00:44.720
+your points add up faster.
+
+25
+00:00:44.720 --> 00:00:46.000
+All the art,
+
+26
+00:00:46.000 --> 00:00:48.640
+music and code had to be our own.
+
+27
+00:00:48.640 --> 00:00:49.800
+Nothing copied.
+
+28
+00:00:49.800 --> 00:00:51.380
+Planner went first.
+
+29
+00:00:51.380 --> 00:00:53.480
+It studied the reference table and wrote
+
+30
+00:00:53.480 --> 00:00:56.980
+a requirements document: twenty-one game systems,
+
+31
+00:00:56.980 --> 00:01:00.120
+each one mapped to a fantasy version.
+
+32
+00:01:00.120 --> 00:01:01.580
+David looked it over and
+
+33
+00:01:01.580 --> 00:01:02.620
+made a few edits.
+
+34
+00:01:02.620 --> 00:01:05.300
+Each hero class gets its own ball.
+
+35
+00:01:05.300 --> 00:01:07.240
+The wizard is a fireball.
+
+36
+00:01:07.240 --> 00:01:09.420
+The cleric is a glowing orb.
+
+37
+00:01:09.420 --> 00:01:10.900
+Classic pinball sounds,
+
+38
+00:01:10.900 --> 00:01:13.620
+and quiet tavern music you can mute.
+
+39
+00:01:13.620 --> 00:01:15.500
+Then Helm, another agent,
+
+40
+00:01:15.500 --> 00:01:17.280
+signed the build plan within the scope
+
+41
+00:01:17.280 --> 00:01:19.860
+David approved, and Planner split the job
+
+42
+00:01:19.860 --> 00:01:23.020
+into build steps, one seat for each.
+
+43
+00:01:23.280 --> 00:01:25.600
+Researcher measured the reference: the scoring,
+
+44
+00:01:25.600 --> 00:01:27.660
+the timers, the ranks.
+
+45
+00:01:27.660 --> 00:01:29.820
+Planner found seven gaps in that work
+
+46
+00:01:29.820 --> 00:01:31.620
+and sent it on to Senior Executor,
+
+47
+00:01:31.620 --> 00:01:33.960
+who filled every one from the source.
+
+48
+00:01:33.960 --> 00:01:36.240
+Cursor Executor built the skeleton of the
+
+49
+00:01:36.240 --> 00:01:37.680
+game, then the scoring,
+
+50
+00:01:37.680 --> 00:01:39.300
+and later the journal,
+
+51
+00:01:39.300 --> 00:01:42.400
+the hall of heroes, and the audio.
+
+52
+00:01:42.400 --> 00:01:44.900
+Senior Executor built the physics and the
+
+53
+00:01:44.900 --> 00:01:46.840
+quest engine: nine levels,
+
+54
+00:01:46.840 --> 00:01:51.260
+from Novice to Legend, and twenty-seven quests.
+
+55
+00:01:51.760 --> 00:01:54.280
+Senior Executor Two added the holes,
+
+56
+00:01:54.280 --> 00:01:57.940
+the ball saves, multi-ball and the jackpot.
+
+57
+00:01:57.940 --> 00:02:01.520
+Codex Executor painted the art: twelve stills,
+
+58
+00:02:01.520 --> 00:02:04.880
+from the playfield to the four hero balls.
+
+59
+00:02:04.880 --> 00:02:07.380
+And Reviewer checked every single change
+
+60
+00:02:07.380 --> 00:02:08.940
+before it went in.
+
+61
+00:02:08.940 --> 00:02:10.780
+When Reviewer found a problem,
+
+62
+00:02:10.780 --> 00:02:11.880
+the work went back.
+
+63
+00:02:11.880 --> 00:02:14.120
+One big change had its line endings
+
+64
+00:02:14.120 --> 00:02:15.600
+flipped in every file,
+
+65
+00:02:15.600 --> 00:02:17.320
+and a soak test that failed.
+
+66
+00:02:17.320 --> 00:02:20.480
+Both were fixed before it went in.
+
+67
+00:02:20.480 --> 00:02:22.860
+David's part was the taste calls.
+
+68
+00:02:22.860 --> 00:02:24.680
+He looked at the art and said:
+
+69
+00:02:24.680 --> 00:02:26.060
+lock it.
+
+70
+00:02:26.060 --> 00:02:28.140
+He heard a tavern loop of about
+
+71
+00:02:28.140 --> 00:02:30.400
+seven seconds and asked for thirty,
+
+72
+00:02:30.400 --> 00:02:32.040
+with a seam you can't hear.
+
+73
+00:02:32.040 --> 00:02:33.840
+It came back the same morning,
+
+74
+00:02:33.840 --> 00:02:35.180
+and he locked it.
+
+75
+00:02:35.180 --> 00:02:37.120
+By lunchtime the next day,
+
+76
+00:02:37.120 --> 00:02:38.900
+the first build was up and running
+
+77
+00:02:38.900 --> 00:02:41.700
+on Directive Demos for him to play.
+
+78
+00:02:41.700 --> 00:02:42.840
+Then he played it.
+
+79
+00:02:42.840 --> 00:02:44.720
+And he had notes.
+
+80
+00:02:44.720 --> 00:02:46.500
+There were no phone controls.
+
+81
+00:02:46.500 --> 00:02:48.440
+The controls were hard to find.
+
+82
+00:02:48.440 --> 00:02:49.940
+The table felt empty,
+
+83
+00:02:49.940 --> 00:02:51.040
+it had no ramps,
+
+84
+00:02:51.040 --> 00:02:53.120
+and it was small on screen.
+
+85
+00:02:53.120 --> 00:02:54.480
+Almost right away,
+
+86
+00:02:54.480 --> 00:02:56.800
+Planner had turned that into six cards,
+
+87
+00:02:56.800 --> 00:02:58.800
+one for each fix.
+
+88
+00:02:58.800 --> 00:03:00.520
+With both flippers up,
+
+89
+00:03:00.520 --> 00:03:02.980
+the ball could not slip between them.
+
+90
+00:03:02.980 --> 00:03:05.020
+David said: as long as
+
+91
+00:03:05.020 --> 00:03:06.640
+it just barely fits.
+
+92
+00:03:06.640 --> 00:03:08.880
+Codex Executor set the gap one and
+
+93
+00:03:08.880 --> 00:03:11.320
+a half millimeters wider than the ball.
+
+94
+00:03:11.320 --> 00:03:13.540
+Then the big one.
+
+95
+00:03:13.720 --> 00:03:15.280
+In David's words:
+
+96
+00:03:15.280 --> 00:03:17.140
+I really thought we would get something
+
+97
+00:03:17.140 --> 00:03:19.800
+that looked more like the classic table.
+
+98
+00:03:19.800 --> 00:03:22.700
+A reskin, with fantasy themes.
+
+99
+00:03:22.700 --> 00:03:25.060
+So the team changed course.
+
+100
+00:03:25.060 --> 00:03:27.480
+Senior Executor mapped the reference layout,
+
+101
+00:03:27.480 --> 00:03:30.820
+piece by piece, to twenty-one fantasy elements,
+
+102
+00:03:30.820 --> 00:03:33.120
+and Reviewer checked every position
+
+103
+00:03:33.120 --> 00:03:35.060
+before the rebuild began.
+
+104
+00:03:35.060 --> 00:03:37.420
+Then Senior Executor rebuilt the
+
+105
+00:03:37.420 --> 00:03:39.219
+table on that map.
+
+106
+00:03:39.219 --> 00:03:40.500
+Another idea he liked:
+
+107
+00:03:40.500 --> 00:03:43.120
+a table that changes with your quest.
+
+108
+00:03:43.120 --> 00:03:45.680
+So now bumpers rise and drop,
+
+109
+00:03:45.680 --> 00:03:47.940
+and a boss fight swaps the background.
+
+110
+00:03:47.940 --> 00:03:51.040
+Senior Executor Two built that,
+
+111
+00:03:51.040 --> 00:03:53.300
+plus side barriers that save your ball
+
+112
+00:03:53.300 --> 00:03:54.900
+once, and come back when you
+
+113
+00:03:54.900 --> 00:03:55.940
+finish an easy quest.
+
+114
+00:03:55.940 --> 00:03:59.520
+Codex Executor painted the new ramps,
+
+115
+00:03:59.520 --> 00:04:02.273
+barriers and quest pieces to match.
+
+116
+00:04:02.273 --> 00:04:04.680
+That evening, Reviewer put the new table
+
+117
+00:04:04.680 --> 00:04:06.080
+up for David to play again.
+
+118
+00:04:06.080 --> 00:04:08.380
+He had six more notes,
+
+119
+00:04:08.380 --> 00:04:10.900
+and six more fixes went in.
+
+120
+00:04:10.900 --> 00:04:12.920
+The painted lanes now match where
+
+121
+00:04:12.920 --> 00:04:14.300
+the ball really goes.
+
+122
+00:04:14.300 --> 00:04:16.560
+The controls never cover the table.
+
+123
+00:04:16.560 --> 00:04:18.600
+The sound effects were redone to sound
+
+124
+00:04:18.600 --> 00:04:20.400
+like a real pinball machine.
+
+125
+00:04:20.400 --> 00:04:22.140
+The odd cluster on the right became
+
+126
+00:04:22.140 --> 00:04:23.640
+a bank of drop targets.
+
+127
+00:04:23.640 --> 00:04:25.580
+And both left ramps can be hit
+
+128
+00:04:25.580 --> 00:04:27.360
+with a normal flipper shot.
+
+129
+00:04:27.360 --> 00:04:29.080
+The ball used to jump between
+
+130
+00:04:29.080 --> 00:04:30.900
+two circles with no warning.
+
+131
+00:04:30.900 --> 00:04:34.460
+Now you see it happen, with a flash.
+
+132
+00:04:34.460 --> 00:04:36.060
+Reviewer put it up once more.
+
+133
+00:04:36.060 --> 00:04:38.900
+On his phone it was working well.
+
+134
+00:04:38.900 --> 00:04:41.020
+He really liked the portals,
+
+135
+00:04:41.020 --> 00:04:42.800
+and asked for one or two more,
+
+136
+00:04:42.800 --> 00:04:45.080
+and a way to see high scores.
+
+137
+00:04:45.080 --> 00:04:49.620
+Senior Executor Two added two more portals.
+
+138
+00:04:49.620 --> 00:04:52.680
+Cursor Executor added the high scores,
+
+139
+00:04:52.680 --> 00:04:55.219
+on the phone and the computer.
+
+140
+00:04:55.219 --> 00:04:59.080
+The next morning David said: it's final.
+
+141
+00:04:59.080 --> 00:05:00.540
+Here is where it landed.
+
+142
+00:05:00.540 --> 00:05:02.000
+A full table with ramps,
+
+143
+00:05:02.000 --> 00:05:04.160
+five portals and a crowd of bumpers.
+
+144
+00:05:04.160 --> 00:05:05.580
+Four hero balls.
+
+145
+00:05:05.580 --> 00:05:08.300
+Nine levels and twenty-seven quests.
+
+146
+00:05:08.300 --> 00:05:11.860
+Multi-ball, a jackpot, and a boss fight.
+
+147
+00:05:11.860 --> 00:05:13.420
+It plays in your browser,
+
+148
+00:05:13.420 --> 00:05:15.920
+on a computer or a phone.
+
+149
+00:05:15.920 --> 00:05:17.800
+So where did the time go?
+
+150
+00:05:17.800 --> 00:05:19.560
+From the first card to the last
+
+151
+00:05:19.560 --> 00:05:21.960
+one finished, about thirty-five hours went
+
+152
+00:05:21.960 --> 00:05:23.340
+by on the clock.
+
+153
+00:05:23.340 --> 00:05:25.060
+Added up across every seat,
+
+154
+00:05:25.060 --> 00:05:27.680
+the agents worked about twenty-nine hours.
+
+155
+00:05:27.680 --> 00:05:30.080
+Often several worked at once,
+
+156
+00:05:30.080 --> 00:05:31.300
+so on the clock it
+
+157
+00:05:31.300 --> 00:05:32.360
+came to about fifteen.
+
+158
+00:05:32.360 --> 00:05:34.840
+David's own hands-on time?
+
+159
+00:05:34.840 --> 00:05:36.520
+In his words:
+
+160
+00:05:36.520 --> 00:05:38.780
+about ten to fifteen minutes,
+
+161
+00:05:38.780 --> 00:05:41.326
+spread over the whole project.
+
+162
+00:05:41.326 --> 00:05:43.120
+For about eighteen of those hours,
+
+163
+00:05:43.120 --> 00:05:45.220
+the next step was waiting on him.
+
+164
+00:05:45.220 --> 00:05:48.100
+Most of that was overnight.
+
+165
+00:05:48.102 --> 00:05:49.120
+That was not lost time.
+
+166
+00:05:49.120 --> 00:05:51.660
+It was his time, free for anything else.
+
+167
+00:05:51.660 --> 00:05:54.000
+And the agents kept going on any
+
+168
+00:05:54.000 --> 00:05:56.071
+work that did not need him.
+
+169
+00:05:56.071 --> 00:05:57.580
+That is the Human Being part.
+
+170
+00:05:57.580 --> 00:05:59.540
+The agents did the doing.
+
+171
+00:05:59.540 --> 00:06:02.600
+So why build it on Directive?
+
+172
+00:06:02.600 --> 00:06:04.880
+Because every agent had a clear job,
+
+173
+00:06:04.880 --> 00:06:06.880
+and the work moved between them on
+
+174
+00:06:06.880 --> 00:06:09.592
+the board, not through David's inbox.
+
+175
+00:06:09.592 --> 00:06:11.540
+Because nothing went in without a review.
+
+176
+00:06:11.540 --> 00:06:14.300
+Thirty-three pull requests went into the final
+
+177
+00:06:14.300 --> 00:06:16.820
+game, and every one passed Reviewer.
+
+178
+00:06:16.820 --> 00:06:20.100
+Because David's feedback turned into work almost
+
+179
+00:06:20.100 --> 00:06:22.500
+right away, and several seats worked on
+
+180
+00:06:22.500 --> 00:06:24.336
+it at the same time.
+
+181
+00:06:24.336 --> 00:06:26.160
+And because his few minutes went on
+
+182
+00:06:26.160 --> 00:06:29.400
+the fun part: looking, listening and playing.
+
+183
+00:06:29.400 --> 00:06:31.200
+The agents did the rest.
+
+184
+00:06:31.200 --> 00:06:33.340
+Every step is on the board,
+
+185
+00:06:33.340 --> 00:06:35.140
+and the evidence page shows a
+
+186
+00:06:35.140 --> 00:06:36.520
+public timeline of the build.
+
+187
+00:06:36.520 --> 00:06:39.100
+Even this script was written by an
+
+188
+00:06:39.100 --> 00:06:41.602
+agent, Marketer, from that evidence.
+
+189
+00:06:41.602 --> 00:06:42.980
+The game is free to play.
+
+190
+00:06:42.980 --> 00:06:44.760
+The link is on screen
+
+191
+00:06:44.760 --> 00:06:46.847
+and in the description.
+
+192
+00:06:46.847 --> 00:06:48.500
+Less doing, and more being.
+
+193
+00:06:48.500 --> 00:06:51.920
+That is what David wants from Directive.

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pinball: how the agents built it</title>
+<style>
+body { margin: 0; background: #140e09; color: #f3e6cf; font: 16px/1.5 "Segoe UI", sans-serif; }
+main { max-width: 960px; margin: 0 auto; padding: 24px 16px; }
+h1 { font-size: 1.4rem; margin: 0 0 12px; }
+#disclosure { border: 1px solid #8a6a3a; background: #23180e; padding: 10px 14px; margin: 0 0 16px; }
+#player { position: relative; aspect-ratio: 16 / 9; background: #000; display: flex; align-items: center; justify-content: center; }
+#player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+a { color: #f0c27a; }
+</style>
+</head>
+<body>
+<main>
+<h1 id="title">Pinball: how the agents built it</h1>
+<p id="disclosure">The narrator's voice is synthetic. Every frame of gameplay is the real game.</p>
+<div id="player"><p id="placeholder">Video: not yet published</p></div>
+<p id="description"></p>
+<p><a href="transcript.txt">Transcript</a> &middot; Captions: <a href="captions.vtt">VTT</a>, <a href="captions.srt">SRT</a> &middot; <a href="../">Play it free</a> &middot; <a href="../evidence/">Build timeline and evidence</a></p>
+</main>
+<script>
+fetch("video.json").then(function (r) { return r.json(); }).then(function (v) {
+  document.getElementById("title").textContent = v.title;
+  document.getElementById("disclosure").textContent = v.disclosure;
+  document.getElementById("description").textContent = v.description;
+  if (typeof v.embedId === "string" && /^[A-Za-z0-9_-]{6,20}$/.test(v.embedId)) {
+    var f = document.createElement("iframe");
+    f.src = "https://www.youtube-nocookie.com/embed/" + v.embedId + "?cc_load_policy=1";
+    f.title = v.title;
+    f.allow = "encrypted-media; picture-in-picture; fullscreen";
+    var p = document.getElementById("player");
+    p.textContent = "";
+    p.appendChild(f);
+  }
+}).catch(function () {});
+</script>
+</body>
+</html>

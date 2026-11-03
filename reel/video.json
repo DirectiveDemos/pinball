@@ -1,0 +1,52 @@
+{
+  "slot": "pinball/reel/",
+  "status": "staged",
+  "publishNote": "Staged only. Not published until David's separate publish go (Helm 5e36f646 on DRA-3894).",
+  "title": "An AI agent team built a pinball game. Its founder spent about ten to fifteen minutes.",
+  "titleOptions": [
+    "An AI agent team built a pinball game. Its founder spent about ten to fifteen minutes.",
+    "From one evening's ask to a full pinball table: the agent build story",
+    "How AI agents built (and rebuilt) a fantasy pinball game"
+  ],
+  "titleNote": "title is option 1 of the three approved options (DRA-3894 script-rev5 section 5); swap at publish if another is chosen.",
+  "description": "One evening David asked his agent team for a fantasy pinball game. This is how they built it: who did what, how they handled three rounds of his feedback, where the time went (about twenty-nine agent hours; about ten to fifteen minutes of David's), and why we ran it on Directive: so he can be more of a Human Being and less of a Human Doing. The narrator's voice is synthetic; every frame of gameplay is the real game. Play it free: https://directivedemos.github.io/pinball/ . Build timeline and evidence: https://directivedemos.github.io/pinball/evidence/",
+  "hashtags": [
+    "#pinball",
+    "#gamedev",
+    "#aiagents",
+    "#indiegame",
+    "#buildinpublic"
+  ],
+  "durationSeconds": 414.67,
+  "disclosure": "The narrator's voice is synthetic. Every frame of gameplay is the real game.",
+  "embedId": null,
+  "embedIdNote": "Placeholder. Filled at publish with the hosted video id; until then the slot page shows no player.",
+  "captions": {
+    "srt": "captions.srt",
+    "vtt": "captions.vtt"
+  },
+  "transcript": "transcript.txt",
+  "source": {
+    "issue": "DRA-3894",
+    "scriptDocument": "script-rev5",
+    "scriptRevision": "b893fb8a-a1dc-41f5-a75e-658fbfae940b",
+    "approval": "David 2026-11-03 11:30 AM CT, 'Buildout: 1, approve v6' (Helm dba86e5a on DRA-3894)"
+  },
+  "sha256": {
+    "video": {
+      "file": "r1_v6.mp4",
+      "sha256": "d0e99b95b30680d40ed9158731cc46e3c22c6c65242e3a99b9f8b9a5c2075d32",
+      "committed": false
+    },
+    "captions": {
+      "file": "r1_v6.srt",
+      "sha256": "24ca04554ab5299799e07d70ee3dec438b7206673ac00d1cae412454a88c8f51",
+      "committedAs": "captions.srt"
+    },
+    "transcript": {
+      "file": "r1_narrator_v6.txt",
+      "sha256": "0b8ecb32658ebdb4f76133cd7c92f88a963ba3c809c7e965a409fdb78b3c0f86",
+      "committedAs": "transcript.txt"
+    }
+  }
+}
