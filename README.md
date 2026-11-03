@@ -3,8 +3,8 @@
 Playable static build hosted for DirectiveDemos.
 
 - Source repository: DranakCorps-bot/Pinball
-- Source commit: 560e7a849fa9097e34e827047886856423772a83
-- Card: DRA-3934
+- Source commit: 22634a364ab4261368b8af5af67158cb794277e3
+- Card: DRA-3957
 - Build: `npm ci` then `npm run build` at that commit (Vite, then `scripts/inline-dist.mjs`)
 - Pages delta from that build: one local favicon link (`assets/icon-key-YfThh_Bm.png`) so the browser does not request the organization icon. Same fix as DRA-3863.
 
